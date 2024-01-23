@@ -21,5 +21,31 @@ body {
     color: brown;
   }
   
+  img {
+    max-width: 300%;
+    display: block;
+    height: auto;
+    margin: 0 auto; 
+
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+      font-size: 1.6rem;
+      line-height: 1.5;
+      text-align: justify;
+      color: #333;
+      margin: 0;
+  }
+  mg {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+html {
+  font-size: 10px;
+}
+
+
 
 
